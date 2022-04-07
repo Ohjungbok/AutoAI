@@ -1,0 +1,7 @@
+diff --git a/stage.txt b/stage.txt
+deleted file mode 100644
+index fd7cae5..0000000
+--- a/stage.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-new file stage.txt
